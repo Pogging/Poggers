@@ -1,0 +1,12 @@
+{
+	"UpdateKey":"releaseday",
+	"IsScriptEnabled":"Yes",
+
+	"BlackListedUsers":[
+		1
+	],
+
+	"VIPUsers":[
+		0
+	]
+}
